@@ -1,0 +1,4 @@
+fastai
+pytorch
+numpy
+pandas
